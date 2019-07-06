@@ -53,6 +53,11 @@
 ตัวอย่างเช่น  
 `[![ล็อกโลลิค่อน](https://i.imgur.com/00YeDvb.png)](https://goshujin.tk/)`  
 [![](https://i.imgur.com/00YeDvb.png)](https://goshujin.tk/)
+- ลงลิงค์ยูทูป  
+`[![](http://img.youtube.com/vi/รหัสคลิป/0.jpg)](http://www.youtube.com/watch?v=รหัสคลิป)`  
+ตัวอย่างเช่นโพสคลิปจาก `https://www.youtube.com/watch?v=tuQPfVZbMbg`  
+`[![](http://img.youtube.com/vi/tuQPfVZbMbg/0.jpg)](http://www.youtube.com/watch?v=tuQPfVZbMbg)`  
+[![](http://img.youtube.com/vi/tuQPfVZbMbg/0.jpg)](http://www.youtube.com/watch?v=tuQPfVZbMbg)
 - กดเว้นบรรทัดแล้วไม่ยอมแยกขึ้นบรรทัดใหม่  
 เคาะสเปซบาร์เว้นวรรคไป 2 ครั้งท้ายบรรทัดเก่า
 - ตัวอักษร  
