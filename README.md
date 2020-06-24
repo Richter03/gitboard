@@ -60,8 +60,8 @@
 - โพสลิงค์  
 `[ข้อความลิงค์](ที่อยู่ลิงค์)`  
 เช่น  
-`[เว็บนายท่าน](https://goshujin.tk/)`  
-[เว็บนายท่าน](https://goshujin.tk/)
+`[เว็บ duckduckgo](https://duckduckgo.com/)`  
+[เว็บ duckduckgo](https://duckduckgo.com/)
 - คลิ๊กภาพแล้วลิงค์ไปยังปลายทาง  
 `[![ข้อความเวลาเอาเม้าชี้ภาพ](ที่อยู่ภาพ)](https://goshujin.tk/)`  
 ตัวอย่างเช่น  
