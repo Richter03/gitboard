@@ -12,8 +12,8 @@
 [008 - Evil plan](#008---Evil-plan)  
 [009 - Hot night with Lora](#009---Hot-night-with-Lora)  
 [010 - Clean up](#010---Clean-up)  
-[011 - Living hell](#011---Living-hell)
-[012 - Suprise Guess](#012---Suprise-Guess)
+[011 - Living hell](#011---Living-hell)  
+[012 - Suprise Guess](#012---Suprise-Guess)  
 
 # 
 # [แนะนำติชม แสดงความคิดเห็น](https://github.com/Richter03/gitboard/issues/6)
