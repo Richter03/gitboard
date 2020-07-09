@@ -15,10 +15,10 @@
 [011 - Living hell](#011---Living-hell)  
 [012 - Suprise Guess](#012---Suprise-Guess)  
 [013 - Devil luck ](#013---Devil-luck )  
-[014 - Trap](014---Trap)  
-[015 - Time to dual](015---Time-to-dual)  
-[016 - New coming](016---New-coming)  
-[017 - Next move](017---Next-move)  
+[014 - Trap](#014---Trap)  
+[015 - Time to dual](#015---Time-to-dual)  
+[016 - New coming](#016---New-coming)  
+[017 - Next move](#017---Next-move)  
 # 
 # [แนะนำติชม แสดงความคิดเห็น](https://github.com/Richter03/gitboard/issues/6)
 
