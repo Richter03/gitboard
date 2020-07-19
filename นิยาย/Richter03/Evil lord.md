@@ -19,11 +19,11 @@
 [015 - Time to dual](#015---Time-to-dual)  
 [016 - New coming](#016---New-coming)  
 [017 - Next move](#017---Next-move)  
-[018 - Are you a spy](#018---Are-you-a-spy)
-[019 - Wrong turn](#019---Wrong-turn)
-[020 - Curiosity killed the cat](#020---Curiosity-killed-the-cat)
-[021 - Ring the Bell](#021---Ring-the-Bell)
-[022 - Jingle bell](#022---Jingle-bell)
+[018 - Are you a spy](#018---Are-you-a-spy)  
+[019 - Wrong turn](#019---Wrong-turn)  
+[020 - Curiosity killed the cat](#020---Curiosity-killed-the-cat)  
+[021 - Ring the Bell](#021---Ring-the-Bell)  
+[022 - Jingle bell](#022---Jingle-bell)  
 # 
 # [แนะนำติชม แสดงความคิดเห็น](https://github.com/Richter03/gitboard/issues/6)
 
